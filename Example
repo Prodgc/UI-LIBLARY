@@ -1,4 +1,4 @@
-local centrl = loadstring(game:HttpGet("https://raw.githubusercontent.com/yarrosvault/CentrlV2/refs/heads/main/centrl",true))()
+local centrl = loadstring(game:HttpGet("https://raw.githubusercontent.com/Prodgc/UI-LIBLARY/refs/heads/main/Document",true))() --// Or https://raw.githubusercontent.com/Prodgc/UI-LIBLARY/refs/heads/main/Document
 centrl:load({
 	Logo = '14258098097', -- ID Only (required, optional soon)
 	ConfigEnabled = {
